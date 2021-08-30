@@ -1,0 +1,16 @@
+body {
+    font-size: 25px;
+    
+}
+
+.caption {
+    color: blueviolet;
+}
+
+.content {
+    color: cadetblue;
+}
+
+.menu {
+    text-align: center;
+}
